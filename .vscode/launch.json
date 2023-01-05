@@ -4,15 +4,11 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
-        
-
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open Calculadora.html",
-            "file": "c:\\Users\\VANIA\\Documents\\Visual Studio 2022\\Calculadora.html"
+            "name": "Open Formulario.html",
+            "file": "c:\\Users\\VANIA\\Documents\\Visual Studio 2022\\Formulario.html"
         }
     ]
 }
